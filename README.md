@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn codes and little bit of universe.
 - 🌱 I’m currently learning Python, HTML,CSS, JS and German.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:https://www.linkedin.com/in/adriana-da-silva-a59050156/
 
 <!---
 SilvaeAdriana/SilvaeAdriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
