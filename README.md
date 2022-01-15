@@ -1,6 +1,6 @@
 - 👋 Oi, Sou a Adriana @SilvaeAdriana
 - 👀 Interessada em códigos e em alguns assuntos do Universo.
-- 🌱 Atualmente aprendendo: Python, HTML,CSS, JS and German.
+- 🌱 Atualmente aprendendo: Python, HTML,CSS, JS, SQL e alemão.
 - 💞️ Em busca de um estágio ou vaga de deva Jr. Em transição de carreira
 - 📫 Para me encontrar:https://www.linkedin.com/in/adriana-da-silva-a59050156/
 
