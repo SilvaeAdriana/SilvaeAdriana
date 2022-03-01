@@ -1,12 +1,14 @@
+# Eu ! :cowboy_hat_face:
+---
 
 
-
-- 👋 Oi, sou a Adriana -> **@SilvaeAdriana**
+- 👋 Oi, sou a Adriana -> **__@SilvaeAdriana__**
 - 👀 Interessada em códigos e em alguns outros assuntos do Universo.
 - 🌱 Atualmente aprendendo: Python, HTML,CSS, JS, SQL e alemão.
-- 💞️ Em busca de um estágio ou vaga de Deva Jr. Em transição de carreira para a área de T.I.
+- 💞️ Em busca de um estágio ou vaga de Deva Jr. Em transição de carreira para a área de T.I.!
 - 📫 Para me encontrar: https://www.linkedin.com/in/adriana-da-silva-a59050156/.
 
+![DSC_0812](https://user-images.githubusercontent.com/75712203/156068811-a5817682-127f-41ec-b3b5-9868578f9889.jpg)
 
 <!---
 SilvaeAdriana/SilvaeAdriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
